@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="User_DataModelStoreContainer" CdmEntityContainer="User_DataEntities">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="User_DataModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="mobileNumber" ColumnName="mobileNumber" />
+          <ScalarProperty Name="createdDate" ColumnName="createdDate" />
+          <ScalarProperty Name="isDeleted" ColumnName="isDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="User_DataModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="mobileNumber" ColumnName="mobileNumber" />
+          <ScalarProperty Name="createdDate" ColumnName="createdDate" />
+          <ScalarProperty Name="isDeleted" ColumnName="isDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserLoginDatas">
+      <EntityTypeMapping TypeName="User_DataModel.UserLoginData">
+        <MappingFragment StoreEntitySet="UserLoginData">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="mobileNumber" ColumnName="mobileNumber" />
+          <ScalarProperty Name="profileImage" ColumnName="profileImage" />
+          <ScalarProperty Name="createdDate" ColumnName="createdDate" />
+          <ScalarProperty Name="isDeleted" ColumnName="isDeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="spDeleteEmployee" FunctionName="User_DataModel.Store.spDeleteEmployee" />
+    <FunctionImportMapping FunctionImportName="spDeleteStudent" FunctionName="User_DataModel.Store.spDeleteStudent" />
+    <FunctionImportMapping FunctionImportName="spUpdateEmployee" FunctionName="User_DataModel.Store.spUpdateEmployee" />
+    <FunctionImportMapping FunctionImportName="spUpdateStudent" FunctionName="User_DataModel.Store.spUpdateStudent" />
+  </EntityContainerMapping>
+</Mapping>

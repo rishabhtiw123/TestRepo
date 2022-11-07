@@ -1,0 +1,14 @@
+C:\Office Project\AssentManagement\AssentManagementRepository\bin\Debug\AssentManagementRepository.dll.config
+C:\Office Project\AssentManagement\AssentManagementRepository\bin\Debug\AssentManagementRepository.dll
+C:\Office Project\AssentManagement\AssentManagementRepository\bin\Debug\AssentManagementRepository.pdb
+C:\Office Project\AssentManagement\AssentManagementRepository\bin\Debug\AssentManagementBusinessObject.dll
+C:\Office Project\AssentManagement\AssentManagementRepository\bin\Debug\EntityFramework.dll
+C:\Office Project\AssentManagement\AssentManagementRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Office Project\AssentManagement\AssentManagementRepository\bin\Debug\AssentManagementBusinessObject.pdb
+C:\Office Project\AssentManagement\AssentManagementRepository\bin\Debug\EntityFramework.xml
+C:\Office Project\AssentManagement\AssentManagementRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Office Project\AssentManagement\AssentManagementRepository\obj\Debug\AssetManagementRepository.csproj.AssemblyReference.cache
+C:\Office Project\AssentManagement\AssentManagementRepository\obj\Debug\AssetManagementRepository.csproj.CoreCompileInputs.cache
+C:\Office Project\AssentManagement\AssentManagementRepository\obj\Debug\AssetManagementRepository.csproj.CopyComplete
+C:\Office Project\AssentManagement\AssentManagementRepository\obj\Debug\AssentManagementRepository.dll
+C:\Office Project\AssentManagement\AssentManagementRepository\obj\Debug\AssentManagementRepository.pdb

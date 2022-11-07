@@ -1,0 +1,17 @@
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\AssentManagementBusinessLogic.dll.config
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\AssentManagementBusinessLogic.dll
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\AssentManagementBusinessLogic.pdb
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\AssentManagementBusinessObject.dll
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\AssentManagementRepository.dll
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\EntityFramework.dll
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\AssentManagementBusinessObject.pdb
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\AssentManagementRepository.pdb
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\AssentManagementRepository.dll.config
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\EntityFramework.xml
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\obj\Debug\AssentManagementBusinessLogic.csproj.AssemblyReference.cache
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\obj\Debug\AssentManagementBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\obj\Debug\AssentManagementBusinessLogic.csproj.CopyComplete
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\obj\Debug\AssentManagementBusinessLogic.dll
+C:\Office Project\AssentManagement\AssentManagementBusinessLogic\obj\Debug\AssentManagementBusinessLogic.pdb

@@ -1,0 +1,6 @@
+C:\Office Project\AssentManagement\AssentManagementBusinessObject\bin\Debug\AssentManagementBusinessObject.dll
+C:\Office Project\AssentManagement\AssentManagementBusinessObject\bin\Debug\AssentManagementBusinessObject.pdb
+C:\Office Project\AssentManagement\AssentManagementBusinessObject\obj\Debug\AssentManagementBusinessObject.csproj.AssemblyReference.cache
+C:\Office Project\AssentManagement\AssentManagementBusinessObject\obj\Debug\AssentManagementBusinessObject.csproj.CoreCompileInputs.cache
+C:\Office Project\AssentManagement\AssentManagementBusinessObject\obj\Debug\AssentManagementBusinessObject.dll
+C:\Office Project\AssentManagement\AssentManagementBusinessObject\obj\Debug\AssentManagementBusinessObject.pdb
